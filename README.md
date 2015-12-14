@@ -1,3 +1,3 @@
 # hello-world
 test
-Dit is ee ntest projectje
+Dit is een test projectje zonder spelfouten
